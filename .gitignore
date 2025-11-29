@@ -1,48 +1,108 @@
-# Wordpress - ignore core, configuration, examples, uploads and logs.
-# https://github.com/github/gitignore/blob/main/WordPress.gitignore
-
-# Core
-#
-# Note: if you want to stage/commit WP core files
-# you can delete this whole section/until Configuration.
+# WordPress Core Files
 /wp-admin/
-/wp-content/index.php
-/wp-content/languages
-/wp-content/plugins/index.php
-/wp-content/themes/index.php
 /wp-includes/
-/index.php
-/license.txt
-/readme.html
-/wp-*.php
-/xmlrpc.php
+/wp-content/index.php
+/wp-content/languages/
+/wp-content/upgrade/
+wp-*.php
+xmlrpc.php
+index.php
+license.txt
+readme.html
 
-# Configuration
+# Configuration Files
 wp-config.php
+wp-config-local.php
+wp-config-production.php
+.htaccess
 
-# Example themes
-/wp-content/themes/twenty*/
+# Database
+*.sql
+*.sqlite
 
-# Example plugin
-/wp-content/plugins/hello.php
-
-# Uploads
+# Uploads and Media
 /wp-content/uploads/
 
-# Log files
+# Cache and Temporary Files
+/wp-content/cache/
+/wp-content/backup-db/
+/wp-content/backups/
+/wp-content/blogs.dir/
+/wp-content/upgrade/
+/wp-content/wp-cache-config.php
+
+# Logs
 *.log
+/logs/
+/wp-content/debug.log
 
-# htaccess
-/.htaccess
+# Third-party Plugins (managed via Composer)
+/wp-content/plugins/
+# Keep custom plugins
+!/wp-content/plugins/custom-*
+!/wp-content/plugins/hirein-*
 
-# All plugins
-#
-# Note: If you wish to whitelist plugins,
-# uncomment the next line
-#/wp-content/plugins
+# Third-party Themes (managed via Composer)
+/wp-content/themes/twenty*/
+/wp-content/themes/index.php
+# Keep custom themes
+!/wp-content/themes/hirein*/
+!/wp-content/themes/custom*/
 
-# All themes
-#
-# Note: If you wish to whitelist themes,
-# uncomment the next line
-#/wp-content/themes
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build tools
+/dist/
+/build/
+/.sass-cache/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Composer
+/vendor/
+composer.phar
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Security
+wp-salt.php
+malcare-waf.php
+
+# Site-specific files
+BingSiteAuth.xml
+google*.html
+sitemap*.xml
+robots.txt
+
+# Archive files
+*.tar.gz
+*.tar.bz2
+*.zip
+*.rar
+Lakeside.tar.bz2

@@ -1,0 +1,52 @@
+{
+    "name": "squareducks/hirein-wordpress",
+    "description": "WordPress site for HireIn equipment rental business",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Squareducks",
+            "email": "info@squareducks.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "johnpbloch/wordpress": "^6.8",
+        "wpackagist-plugin/woocommerce": "^9.0",
+        "wpackagist-plugin/seo-by-rank-math": "^1.0",
+        "wpackagist-plugin/wp-rocket": "^3.0",
+        "wpackagist-plugin/imagify": "^2.0",
+        "wpackagist-plugin/wpforms-lite": "^1.0",
+        "wpackagist-plugin/wp-mail-smtp": "^4.0",
+        "wpackagist-plugin/tablepress": "^2.0",
+        "wpackagist-plugin/cookie-law-info": "^3.0"
+    },
+    "require-dev": {
+        "wp-cli/wp-cli": "^2.0"
+    },
+    "extra": {
+        "wordpress-install-dir": "wp",
+        "installer-paths": {
+            "wp-content/plugins/{$name}/": ["type:wordpress-plugin"],
+            "wp-content/themes/{$name}/": ["type:wordpress-theme"],
+            "wp-content/mu-plugins/{$name}/": ["type:wordpress-muplugin"]
+        }
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "php -r \"copy('wp-config-sample.php', 'wp-config.php');\""
+        ]
+    },
+    "config": {
+        "allow-plugins": {
+            "johnpbloch/wordpress-core-installer": true,
+            "composer/installers": true
+        }
+    }
+}
