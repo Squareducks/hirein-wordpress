@@ -371,3 +371,83 @@ function enqueue_flatpickr_script() {
     wp_enqueue_style('flatpickr-style', 'https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css', array(), null);
 }
 add_action('wp_enqueue_scripts', 'enqueue_flatpickr_script');
+
+/**
+ * Pillar Pages Functionality
+ * Added for Internal Linking Optimization
+ */
+
+// Register pillar page sidebar
+function register_pillar_page_sidebar() {
+    register_sidebar(
+        array(
+            'id' => 'pillar-page',
+            'name' => __( 'Pillar Page Sidebar' ),
+            'description' => __( 'Sidebar for pillar pages with related equipment links.' ),
+            'before_widget' => '<div id="%1$s" class="widget pillar-widget %2$s">',
+            'after_widget' => '</div>',
+            'before_title' => '<h4 class="pillar-widget-title">',
+            'after_title' => '</h4>'
+        )
+    );
+}
+add_action( 'widgets_init', 'register_pillar_page_sidebar' );
+
+// Enqueue pillar page styles
+function enqueue_pillar_page_styles() {
+    if (is_page_template('page-scaffold-access-solutions.php') || 
+        is_page_template('page-site-groundworks-equipment.php') ||
+        is_page_template('page-safety-security-equipment.php') ||
+        is_page_template('page-material-handling-lifting.php') ||
+        is_page_template('page-diy-home-renovation.php')) {
+        
+        wp_enqueue_style('pillar-page-styles', get_template_directory_uri() . '/css/pillar-pages.css', array(), '1.0.0');
+    }
+}
+add_action('wp_enqueue_scripts', 'enqueue_pillar_page_styles');
+
+// Add pillar page navigation menu
+function add_pillar_pages_menu() {
+    register_nav_menus(
+        array(
+            'pillar-navigation' => __( 'Pillar Pages Navigation' ),
+        )
+    );
+}
+add_action( 'init', 'add_pillar_pages_menu' );
+
+// Add schema markup for pillar pages
+function add_pillar_page_schema() {
+    if (is_page_template('page-scaffold-access-solutions.php') || 
+        is_page_template('page-site-groundworks-equipment.php') ||
+        is_page_template('page-safety-security-equipment.php') ||
+        is_page_template('page-material-handling-lifting.php') ||
+        is_page_template('page-diy-home-renovation.php')) {
+        
+        echo '<script type="application/ld+json">';
+        echo '{';
+        echo '"@context": "https://schema.org",';
+        echo '"@type": "Article",';
+        echo '"headline": "' . get_the_title() . '",';
+        echo '"author": {';
+        echo '"@type": "Organization",';
+        echo '"name": "HireIn Equipment Experts"';
+        echo '},';
+        echo '"publisher": {';
+        echo '"@type": "Organization",';
+        echo '"name": "HireIn",';
+        echo '"url": "' . home_url() . '"';
+        echo '},';
+        echo '"datePublished": "' . get_the_date('c') . '",';
+        echo '"dateModified": "' . get_the_modified_date('c') . '"';
+        echo '}';
+        echo '</script>';
+    }
+}
+add_action('wp_head', 'add_pillar_page_schema');
+
+// Include pillar navigation widget
+require_once get_template_directory() . '/pillar-navigation-widget.php';
+
+// Include pillar breadcrumbs
+require_once get_template_directory() . '/pillar-breadcrumbs.php';
