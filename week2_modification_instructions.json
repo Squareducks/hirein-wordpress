@@ -1,0 +1,1396 @@
+{
+  "total_posts": 10,
+  "total_links": 288,
+  "modifications": [
+    {
+      "post_slug": "lifting-equipment-guide",
+      "post_title": "Complete Guide to Lifting Equipment",
+      "links_to_insert": 8,
+      "modifications": [
+        {
+          "priority": 1,
+          "target_url": "https://hirein.co.uk/lifting-equipment-hire/",
+          "primary_keyword": "lifting equipment hire",
+          "relevance_score": 0.833,
+          "anchor_text_options": [
+            "lifting equipment hire",
+            "professional lifting equipment",
+            "lifting gear rental",
+            "hire lifting equipment",
+            "lifting equipment services"
+          ],
+          "insertion_strategy": "high_priority_contextual",
+          "context_requirements": [
+            "When discussing material handling",
+            "In sections about construction equipment",
+            "When mentioning heavy lifting tasks",
+            "In safety-related equipment discussions"
+          ]
+        },
+        {
+          "priority": 2,
+          "target_url": "https://hirein.co.uk/lifting-gear-hire/",
+          "primary_keyword": "lifting gear hire",
+          "relevance_score": 0.667,
+          "anchor_text_options": [
+            "lifting gear hire",
+            "professional lifting gear hire",
+            "quality lifting gear hire",
+            "lifting gear hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 3,
+          "target_url": "https://hirein.co.uk/",
+          "primary_keyword": "equipment hire",
+          "relevance_score": 0.5,
+          "anchor_text_options": [
+            "equipment hire",
+            "construction equipment rental",
+            "professional equipment hire",
+            "hire construction equipment",
+            "equipment rental services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 4,
+          "target_url": "https://hirein.co.uk/cheap-ladder-hire/",
+          "primary_keyword": "cheap ladder hire",
+          "relevance_score": 0.5,
+          "anchor_text_options": [
+            "cheap ladder hire",
+            "professional cheap ladder hire",
+            "quality cheap ladder hire",
+            "cheap ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 5,
+          "target_url": "https://hirein.co.uk/platform-ladder-hire/",
+          "primary_keyword": "platform ladder hire",
+          "relevance_score": 0.5,
+          "anchor_text_options": [
+            "platform ladder hire",
+            "professional platform ladder hire",
+            "quality platform ladder hire",
+            "platform ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 6,
+          "target_url": "https://hirein.co.uk/youngman-ladder-hire/",
+          "primary_keyword": "youngman ladder hire",
+          "relevance_score": 0.5,
+          "anchor_text_options": [
+            "youngman ladder hire",
+            "professional youngman ladder hire",
+            "quality youngman ladder hire",
+            "youngman ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 7,
+          "target_url": "https://hirein.co.uk/scaffold-hire-prices/",
+          "primary_keyword": "scaffold hire prices",
+          "relevance_score": 0.5,
+          "anchor_text_options": [
+            "scaffold hire prices",
+            "professional scaffold hire prices",
+            "quality scaffold hire prices",
+            "scaffold hire prices services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 8,
+          "target_url": "https://hirein.co.uk/step-ladder-hire/",
+          "primary_keyword": "step ladder hire",
+          "relevance_score": 0.5,
+          "anchor_text_options": [
+            "step ladder hire",
+            "professional step ladder hire",
+            "quality step ladder hire",
+            "step ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        }
+      ]
+    },
+    {
+      "post_slug": "equipment-maintenance",
+      "post_title": "Equipment Maintenance Best Practices",
+      "links_to_insert": 8,
+      "modifications": [
+        {
+          "priority": 1,
+          "target_url": "https://hirein.co.uk/lifting-equipment-hire/",
+          "primary_keyword": "lifting equipment hire",
+          "relevance_score": 0.769,
+          "anchor_text_options": [
+            "lifting equipment hire",
+            "professional lifting equipment",
+            "lifting gear rental",
+            "hire lifting equipment",
+            "lifting equipment services"
+          ],
+          "insertion_strategy": "high_priority_contextual",
+          "context_requirements": [
+            "When discussing material handling",
+            "In sections about construction equipment",
+            "When mentioning heavy lifting tasks",
+            "In safety-related equipment discussions"
+          ]
+        },
+        {
+          "priority": 2,
+          "target_url": "https://hirein.co.uk/cheap-ladder-hire/",
+          "primary_keyword": "cheap ladder hire",
+          "relevance_score": 0.615,
+          "anchor_text_options": [
+            "cheap ladder hire",
+            "professional cheap ladder hire",
+            "quality cheap ladder hire",
+            "cheap ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 3,
+          "target_url": "https://hirein.co.uk/platform-ladder-hire/",
+          "primary_keyword": "platform ladder hire",
+          "relevance_score": 0.615,
+          "anchor_text_options": [
+            "platform ladder hire",
+            "professional platform ladder hire",
+            "quality platform ladder hire",
+            "platform ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 4,
+          "target_url": "https://hirein.co.uk/youngman-ladder-hire/",
+          "primary_keyword": "youngman ladder hire",
+          "relevance_score": 0.615,
+          "anchor_text_options": [
+            "youngman ladder hire",
+            "professional youngman ladder hire",
+            "quality youngman ladder hire",
+            "youngman ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 5,
+          "target_url": "https://hirein.co.uk/scaffold-hire-prices/",
+          "primary_keyword": "scaffold hire prices",
+          "relevance_score": 0.615,
+          "anchor_text_options": [
+            "scaffold hire prices",
+            "professional scaffold hire prices",
+            "quality scaffold hire prices",
+            "scaffold hire prices services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 6,
+          "target_url": "https://hirein.co.uk/step-ladder-hire/",
+          "primary_keyword": "step ladder hire",
+          "relevance_score": 0.615,
+          "anchor_text_options": [
+            "step ladder hire",
+            "professional step ladder hire",
+            "quality step ladder hire",
+            "step ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 7,
+          "target_url": "https://hirein.co.uk/lifting-gear-hire/",
+          "primary_keyword": "lifting gear hire",
+          "relevance_score": 0.615,
+          "anchor_text_options": [
+            "lifting gear hire",
+            "professional lifting gear hire",
+            "quality lifting gear hire",
+            "lifting gear hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 8,
+          "target_url": "https://hirein.co.uk/ladder-accessory-hire/",
+          "primary_keyword": "ladder accessory hire",
+          "relevance_score": 0.615,
+          "anchor_text_options": [
+            "ladder accessory hire",
+            "professional ladder accessory hire",
+            "quality ladder accessory hire",
+            "ladder accessory hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        }
+      ]
+    },
+    {
+      "post_slug": "heater-hire-winter",
+      "post_title": "Winter Construction: Heater Hire Guide",
+      "links_to_insert": 8,
+      "modifications": [
+        {
+          "priority": 1,
+          "target_url": "https://hirein.co.uk/lifting-equipment-hire/",
+          "primary_keyword": "lifting equipment hire",
+          "relevance_score": 0.615,
+          "anchor_text_options": [
+            "lifting equipment hire",
+            "professional lifting equipment",
+            "lifting gear rental",
+            "hire lifting equipment",
+            "lifting equipment services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "When discussing material handling",
+            "In sections about construction equipment",
+            "When mentioning heavy lifting tasks",
+            "In safety-related equipment discussions"
+          ]
+        },
+        {
+          "priority": 2,
+          "target_url": "https://hirein.co.uk/industrial-heater-hire/",
+          "primary_keyword": "industrial heater hire",
+          "relevance_score": 0.615,
+          "anchor_text_options": [
+            "industrial heater hire",
+            "professional industrial heater hire",
+            "quality industrial heater hire",
+            "industrial heater hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 3,
+          "target_url": "https://hirein.co.uk/",
+          "primary_keyword": "equipment hire",
+          "relevance_score": 0.545,
+          "anchor_text_options": [
+            "equipment hire",
+            "construction equipment rental",
+            "professional equipment hire",
+            "hire construction equipment",
+            "equipment rental services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 4,
+          "target_url": "https://hirein.co.uk/heater-hire/",
+          "primary_keyword": "heater hire",
+          "relevance_score": 0.545,
+          "anchor_text_options": [
+            "heater hire",
+            "industrial heater rental",
+            "construction heaters",
+            "site heating solutions",
+            "portable heater hire"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "When discussing winter construction",
+            "In sections about site conditions",
+            "When mentioning temperature control",
+            "In equipment maintenance discussions"
+          ]
+        },
+        {
+          "priority": 5,
+          "target_url": "https://hirein.co.uk/industrial-gas-heater-hire/",
+          "primary_keyword": "industrial gas heater hire",
+          "relevance_score": 0.533,
+          "anchor_text_options": [
+            "industrial gas heater hire",
+            "professional industrial gas heater hire",
+            "quality industrial gas heater hire",
+            "industrial gas heater hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 6,
+          "target_url": "https://hirein.co.uk/cheap-ladder-hire/",
+          "primary_keyword": "cheap ladder hire",
+          "relevance_score": 0.462,
+          "anchor_text_options": [
+            "cheap ladder hire",
+            "professional cheap ladder hire",
+            "quality cheap ladder hire",
+            "cheap ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 7,
+          "target_url": "https://hirein.co.uk/blow-heater-hire/",
+          "primary_keyword": "blow heater hire",
+          "relevance_score": 0.462,
+          "anchor_text_options": [
+            "blow heater hire",
+            "professional blow heater hire",
+            "quality blow heater hire",
+            "blow heater hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 8,
+          "target_url": "https://hirein.co.uk/platform-ladder-hire/",
+          "primary_keyword": "platform ladder hire",
+          "relevance_score": 0.462,
+          "anchor_text_options": [
+            "platform ladder hire",
+            "professional platform ladder hire",
+            "quality platform ladder hire",
+            "platform ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        }
+      ]
+    },
+    {
+      "post_slug": "construction-site-safety",
+      "post_title": "Construction Site Safety Guide",
+      "links_to_insert": 8,
+      "modifications": [
+        {
+          "priority": 1,
+          "target_url": "https://hirein.co.uk/cheap-ladder-hire/",
+          "primary_keyword": "cheap ladder hire",
+          "relevance_score": 0.571,
+          "anchor_text_options": [
+            "cheap ladder hire",
+            "professional cheap ladder hire",
+            "quality cheap ladder hire",
+            "cheap ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 2,
+          "target_url": "https://hirein.co.uk/lifting-equipment-hire/",
+          "primary_keyword": "lifting equipment hire",
+          "relevance_score": 0.571,
+          "anchor_text_options": [
+            "lifting equipment hire",
+            "professional lifting equipment",
+            "lifting gear rental",
+            "hire lifting equipment",
+            "lifting equipment services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "When discussing material handling",
+            "In sections about construction equipment",
+            "When mentioning heavy lifting tasks",
+            "In safety-related equipment discussions"
+          ]
+        },
+        {
+          "priority": 3,
+          "target_url": "https://hirein.co.uk/platform-ladder-hire/",
+          "primary_keyword": "platform ladder hire",
+          "relevance_score": 0.571,
+          "anchor_text_options": [
+            "platform ladder hire",
+            "professional platform ladder hire",
+            "quality platform ladder hire",
+            "platform ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 4,
+          "target_url": "https://hirein.co.uk/youngman-ladder-hire/",
+          "primary_keyword": "youngman ladder hire",
+          "relevance_score": 0.571,
+          "anchor_text_options": [
+            "youngman ladder hire",
+            "professional youngman ladder hire",
+            "quality youngman ladder hire",
+            "youngman ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 5,
+          "target_url": "https://hirein.co.uk/scaffold-hire-prices/",
+          "primary_keyword": "scaffold hire prices",
+          "relevance_score": 0.571,
+          "anchor_text_options": [
+            "scaffold hire prices",
+            "professional scaffold hire prices",
+            "quality scaffold hire prices",
+            "scaffold hire prices services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 6,
+          "target_url": "https://hirein.co.uk/step-ladder-hire/",
+          "primary_keyword": "step ladder hire",
+          "relevance_score": 0.571,
+          "anchor_text_options": [
+            "step ladder hire",
+            "professional step ladder hire",
+            "quality step ladder hire",
+            "step ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 7,
+          "target_url": "https://hirein.co.uk/ladder-accessory-hire/",
+          "primary_keyword": "ladder accessory hire",
+          "relevance_score": 0.571,
+          "anchor_text_options": [
+            "ladder accessory hire",
+            "professional ladder accessory hire",
+            "quality ladder accessory hire",
+            "ladder accessory hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 8,
+          "target_url": "https://hirein.co.uk/extension-ladder-hire/",
+          "primary_keyword": "extension ladder hire",
+          "relevance_score": 0.571,
+          "anchor_text_options": [
+            "extension ladder hire",
+            "professional extension ladder hire",
+            "quality extension ladder hire",
+            "extension ladder hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        }
+      ]
+    },
+    {
+      "post_slug": "scaffold-tower-assembly",
+      "post_title": "How to Assemble a Scaffold Tower",
+      "links_to_insert": 8,
+      "modifications": [
+        {
+          "priority": 1,
+          "target_url": "https://hirein.co.uk/scaffold-tower-scaff-tag-hire/",
+          "primary_keyword": "scaffold tower scaff tag hire",
+          "relevance_score": 0.553,
+          "anchor_text_options": [
+            "scaffold tower scaff tag hire",
+            "professional scaffold tower scaff tag hire",
+            "quality scaffold tower scaff tag hire",
+            "scaffold tower scaff tag hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 2,
+          "target_url": "https://hirein.co.uk/aluminium-scaffold-tower-hire/",
+          "primary_keyword": "aluminium scaffold tower hire",
+          "relevance_score": 0.533,
+          "anchor_text_options": [
+            "aluminium scaffold tower hire",
+            "professional aluminium scaffold tower hire",
+            "quality aluminium scaffold tower hire",
+            "aluminium scaffold tower hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 3,
+          "target_url": "https://hirein.co.uk/tower-scaffold-protectors-hire/",
+          "primary_keyword": "tower scaffold protectors hire",
+          "relevance_score": 0.533,
+          "anchor_text_options": [
+            "tower scaffold protectors hire",
+            "professional tower scaffold protectors hire",
+            "quality tower scaffold protectors hire",
+            "tower scaffold protectors hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 4,
+          "target_url": "https://hirein.co.uk/mobile-scaffold-tower-hire/",
+          "primary_keyword": "mobile scaffold tower hire",
+          "relevance_score": 0.533,
+          "anchor_text_options": [
+            "mobile scaffold tower hire",
+            "professional mobile scaffold tower hire",
+            "quality mobile scaffold tower hire",
+            "mobile scaffold tower hire services"
+          ],
+          "insertion_strategy": "medium_priority_natural",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 5,
+          "target_url": "https://hirein.co.uk/lift-shaft-scaffold-tower-hire/",
+          "primary_keyword": "lift shaft scaffold tower hire",
+          "relevance_score": 0.471,
+          "anchor_text_options": [
+            "lift shaft scaffold tower hire",
+            "professional lift shaft scaffold tower hire",
+            "quality lift shaft scaffold tower hire",
+            "lift shaft scaffold tower hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 6,
+          "target_url": "https://hirein.co.uk/diy-scaffold-tower/",
+          "primary_keyword": "diy scaffold tower",
+          "relevance_score": 0.462,
+          "anchor_text_options": [
+            "diy scaffold tower",
+            "professional diy scaffold tower",
+            "quality diy scaffold tower",
+            "diy scaffold tower services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 7,
+          "target_url": "https://hirein.co.uk/platform-ladder-hire/",
+          "primary_keyword": "platform ladder hire",
+          "relevance_score": 0.462,
+          "anchor_text_options": [
+            "platform ladder hire",
+            "professional platform ladder hire",
+            "quality platform ladder hire",
+            "platform ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 8,
+          "target_url": "https://hirein.co.uk/scaffold-hire-prices/",
+          "primary_keyword": "scaffold hire prices",
+          "relevance_score": 0.462,
+          "anchor_text_options": [
+            "scaffold hire prices",
+            "professional scaffold hire prices",
+            "quality scaffold hire prices",
+            "scaffold hire prices services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        }
+      ]
+    },
+    {
+      "post_slug": "fencing-types-guide",
+      "post_title": "Types of Construction Site Fencing",
+      "links_to_insert": 8,
+      "modifications": [
+        {
+          "priority": 1,
+          "target_url": "https://hirein.co.uk/site-fencing-hire/",
+          "primary_keyword": "site fencing hire",
+          "relevance_score": 0.462,
+          "anchor_text_options": [
+            "site fencing hire",
+            "professional site fencing hire",
+            "quality site fencing hire",
+            "site fencing hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 2,
+          "target_url": "https://hirein.co.uk/security-fencing-hire/",
+          "primary_keyword": "security fencing hire",
+          "relevance_score": 0.462,
+          "anchor_text_options": [
+            "security fencing hire",
+            "professional security fencing hire",
+            "quality security fencing hire",
+            "security fencing hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 3,
+          "target_url": "https://hirein.co.uk/barrier-fencing-hire/",
+          "primary_keyword": "barrier fencing hire",
+          "relevance_score": 0.415,
+          "anchor_text_options": [
+            "barrier fencing hire",
+            "professional barrier fencing hire",
+            "quality barrier fencing hire",
+            "barrier fencing hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 4,
+          "target_url": "https://hirein.co.uk/fencing-hire/",
+          "primary_keyword": "fencing hire",
+          "relevance_score": 0.364,
+          "anchor_text_options": [
+            "fencing hire",
+            "professional fencing hire",
+            "quality fencing hire",
+            "fencing hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 5,
+          "target_url": "https://hirein.co.uk/cheap-ladder-hire/",
+          "primary_keyword": "cheap ladder hire",
+          "relevance_score": 0.308,
+          "anchor_text_options": [
+            "cheap ladder hire",
+            "professional cheap ladder hire",
+            "quality cheap ladder hire",
+            "cheap ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 6,
+          "target_url": "https://hirein.co.uk/lifting-equipment-hire/",
+          "primary_keyword": "lifting equipment hire",
+          "relevance_score": 0.308,
+          "anchor_text_options": [
+            "lifting equipment hire",
+            "professional lifting equipment",
+            "lifting gear rental",
+            "hire lifting equipment",
+            "lifting equipment services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "When discussing material handling",
+            "In sections about construction equipment",
+            "When mentioning heavy lifting tasks",
+            "In safety-related equipment discussions"
+          ]
+        },
+        {
+          "priority": 7,
+          "target_url": "https://hirein.co.uk/platform-ladder-hire/",
+          "primary_keyword": "platform ladder hire",
+          "relevance_score": 0.308,
+          "anchor_text_options": [
+            "platform ladder hire",
+            "professional platform ladder hire",
+            "quality platform ladder hire",
+            "platform ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 8,
+          "target_url": "https://hirein.co.uk/youngman-ladder-hire/",
+          "primary_keyword": "youngman ladder hire",
+          "relevance_score": 0.308,
+          "anchor_text_options": [
+            "youngman ladder hire",
+            "professional youngman ladder hire",
+            "quality youngman ladder hire",
+            "youngman ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        }
+      ]
+    },
+    {
+      "post_slug": "site-security-equipment",
+      "post_title": "Essential Site Security Equipment",
+      "links_to_insert": 8,
+      "modifications": [
+        {
+          "priority": 1,
+          "target_url": "https://hirein.co.uk/site-fencing-hire/",
+          "primary_keyword": "site fencing hire",
+          "relevance_score": 0.417,
+          "anchor_text_options": [
+            "site fencing hire",
+            "professional site fencing hire",
+            "quality site fencing hire",
+            "site fencing hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 2,
+          "target_url": "https://hirein.co.uk/security-fencing-hire/",
+          "primary_keyword": "security fencing hire",
+          "relevance_score": 0.417,
+          "anchor_text_options": [
+            "security fencing hire",
+            "professional security fencing hire",
+            "quality security fencing hire",
+            "security fencing hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 3,
+          "target_url": "https://hirein.co.uk/barrier-fencing-hire/",
+          "primary_keyword": "barrier fencing hire",
+          "relevance_score": 0.367,
+          "anchor_text_options": [
+            "barrier fencing hire",
+            "professional barrier fencing hire",
+            "quality barrier fencing hire",
+            "barrier fencing hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 4,
+          "target_url": "https://hirein.co.uk/lifting-equipment-hire/",
+          "primary_keyword": "lifting equipment hire",
+          "relevance_score": 0.333,
+          "anchor_text_options": [
+            "lifting equipment hire",
+            "professional lifting equipment",
+            "lifting gear rental",
+            "hire lifting equipment",
+            "lifting equipment services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "When discussing material handling",
+            "In sections about construction equipment",
+            "When mentioning heavy lifting tasks",
+            "In safety-related equipment discussions"
+          ]
+        },
+        {
+          "priority": 5,
+          "target_url": "https://hirein.co.uk/",
+          "primary_keyword": "equipment hire",
+          "relevance_score": 0.3,
+          "anchor_text_options": [
+            "equipment hire",
+            "construction equipment rental",
+            "professional equipment hire",
+            "hire construction equipment",
+            "equipment rental services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 6,
+          "target_url": "https://hirein.co.uk/fencing-hire/",
+          "primary_keyword": "fencing hire",
+          "relevance_score": 0.3,
+          "anchor_text_options": [
+            "fencing hire",
+            "professional fencing hire",
+            "quality fencing hire",
+            "fencing hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 7,
+          "target_url": "https://hirein.co.uk/metal-fencing-hire/",
+          "primary_keyword": "metal fencing hire",
+          "relevance_score": 0.25,
+          "anchor_text_options": [
+            "metal fencing hire",
+            "professional metal fencing hire",
+            "quality metal fencing hire",
+            "metal fencing hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 8,
+          "target_url": "https://hirein.co.uk/site-lighting-hire/",
+          "primary_keyword": "site lighting hire",
+          "relevance_score": 0.25,
+          "anchor_text_options": [
+            "site lighting hire",
+            "professional site lighting hire",
+            "quality site lighting hire",
+            "site lighting hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        }
+      ]
+    },
+    {
+      "post_slug": "ladder-safety-tips",
+      "post_title": "Ladder Safety Tips for DIY Projects",
+      "links_to_insert": 8,
+      "modifications": [
+        {
+          "priority": 1,
+          "target_url": "https://hirein.co.uk/ladder-accessory-hire/",
+          "primary_keyword": "ladder accessory hire",
+          "relevance_score": 0.415,
+          "anchor_text_options": [
+            "ladder accessory hire",
+            "professional ladder accessory hire",
+            "quality ladder accessory hire",
+            "ladder accessory hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 2,
+          "target_url": "https://hirein.co.uk/cheap-ladder-hire/",
+          "primary_keyword": "cheap ladder hire",
+          "relevance_score": 0.308,
+          "anchor_text_options": [
+            "cheap ladder hire",
+            "professional cheap ladder hire",
+            "quality cheap ladder hire",
+            "cheap ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 3,
+          "target_url": "https://hirein.co.uk/platform-ladder-hire/",
+          "primary_keyword": "platform ladder hire",
+          "relevance_score": 0.308,
+          "anchor_text_options": [
+            "platform ladder hire",
+            "professional platform ladder hire",
+            "quality platform ladder hire",
+            "platform ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 4,
+          "target_url": "https://hirein.co.uk/youngman-ladder-hire/",
+          "primary_keyword": "youngman ladder hire",
+          "relevance_score": 0.308,
+          "anchor_text_options": [
+            "youngman ladder hire",
+            "professional youngman ladder hire",
+            "quality youngman ladder hire",
+            "youngman ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 5,
+          "target_url": "https://hirein.co.uk/step-ladder-hire/",
+          "primary_keyword": "step ladder hire",
+          "relevance_score": 0.308,
+          "anchor_text_options": [
+            "step ladder hire",
+            "professional step ladder hire",
+            "quality step ladder hire",
+            "step ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 6,
+          "target_url": "https://hirein.co.uk/extension-ladder-hire/",
+          "primary_keyword": "extension ladder hire",
+          "relevance_score": 0.308,
+          "anchor_text_options": [
+            "extension ladder hire",
+            "professional extension ladder hire",
+            "quality extension ladder hire",
+            "extension ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 7,
+          "target_url": "https://hirein.co.uk/aluminium-ladder-hire/",
+          "primary_keyword": "aluminium ladder hire",
+          "relevance_score": 0.308,
+          "anchor_text_options": [
+            "aluminium ladder hire",
+            "professional aluminium ladder hire",
+            "quality aluminium ladder hire",
+            "aluminium ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 8,
+          "target_url": "https://hirein.co.uk/3-way-ladder-hire/",
+          "primary_keyword": "3 way ladder hire",
+          "relevance_score": 0.267,
+          "anchor_text_options": [
+            "3 way ladder hire",
+            "professional 3 way ladder hire",
+            "quality 3 way ladder hire",
+            "3 way ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        }
+      ]
+    },
+    {
+      "post_slug": "powered-access-benefits",
+      "post_title": "Benefits of Powered Access Equipment",
+      "links_to_insert": 8,
+      "modifications": [
+        {
+          "priority": 1,
+          "target_url": "https://hirein.co.uk/lifting-equipment-hire/",
+          "primary_keyword": "lifting equipment hire",
+          "relevance_score": 0.386,
+          "anchor_text_options": [
+            "lifting equipment hire",
+            "professional lifting equipment",
+            "lifting gear rental",
+            "hire lifting equipment",
+            "lifting equipment services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "When discussing material handling",
+            "In sections about construction equipment",
+            "When mentioning heavy lifting tasks",
+            "In safety-related equipment discussions"
+          ]
+        },
+        {
+          "priority": 2,
+          "target_url": "https://hirein.co.uk/boom-lift-hire/",
+          "primary_keyword": "boom lift hire",
+          "relevance_score": 0.357,
+          "anchor_text_options": [
+            "boom lift hire",
+            "professional boom lift hire",
+            "quality boom lift hire",
+            "boom lift hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 3,
+          "target_url": "https://hirein.co.uk/cherry-picker-hire/",
+          "primary_keyword": "cherry picker hire",
+          "relevance_score": 0.357,
+          "anchor_text_options": [
+            "cherry picker hire",
+            "professional cherry picker hire",
+            "quality cherry picker hire",
+            "cherry picker hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 4,
+          "target_url": "https://hirein.co.uk/powered-access-hire/",
+          "primary_keyword": "powered access hire",
+          "relevance_score": 0.357,
+          "anchor_text_options": [
+            "powered access hire",
+            "professional powered access hire",
+            "quality powered access hire",
+            "powered access hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 5,
+          "target_url": "https://hirein.co.uk/",
+          "primary_keyword": "equipment hire",
+          "relevance_score": 0.25,
+          "anchor_text_options": [
+            "equipment hire",
+            "construction equipment rental",
+            "professional equipment hire",
+            "hire construction equipment",
+            "equipment rental services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 6,
+          "target_url": "https://hirein.co.uk/high-level-powered-access/",
+          "primary_keyword": "high level powered access",
+          "relevance_score": 0.25,
+          "anchor_text_options": [
+            "high level powered access",
+            "professional high level powered access",
+            "quality high level powered access",
+            "high level powered access services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 7,
+          "target_url": "https://hirein.co.uk/lift-hire/",
+          "primary_keyword": "lift hire",
+          "relevance_score": 0.25,
+          "anchor_text_options": [
+            "lift hire",
+            "professional lift hire",
+            "quality lift hire",
+            "lift hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 8,
+          "target_url": "https://hirein.co.uk/lifting-gear-hire/",
+          "primary_keyword": "lifting gear hire",
+          "relevance_score": 0.243,
+          "anchor_text_options": [
+            "lifting gear hire",
+            "professional lifting gear hire",
+            "quality lifting gear hire",
+            "lifting gear hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        }
+      ]
+    },
+    {
+      "post_slug": "diy-home-renovation",
+      "post_title": "DIY Home Renovation Project Planning",
+      "links_to_insert": 8,
+      "modifications": [
+        {
+          "priority": 1,
+          "target_url": "https://hirein.co.uk/diy-scaffold-tower/",
+          "primary_keyword": "diy scaffold tower",
+          "relevance_score": 0.357,
+          "anchor_text_options": [
+            "diy scaffold tower",
+            "professional diy scaffold tower",
+            "quality diy scaffold tower",
+            "diy scaffold tower services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 2,
+          "target_url": "https://hirein.co.uk/scaffold-tower-scaff-tag-hire/",
+          "primary_keyword": "scaffold tower scaff tag hire",
+          "relevance_score": 0.3,
+          "anchor_text_options": [
+            "scaffold tower scaff tag hire",
+            "professional scaffold tower scaff tag hire",
+            "quality scaffold tower scaff tag hire",
+            "scaffold tower scaff tag hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 3,
+          "target_url": "https://hirein.co.uk/cheap-ladder-hire/",
+          "primary_keyword": "cheap ladder hire",
+          "relevance_score": 0.286,
+          "anchor_text_options": [
+            "cheap ladder hire",
+            "professional cheap ladder hire",
+            "quality cheap ladder hire",
+            "cheap ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 4,
+          "target_url": "https://hirein.co.uk/lifting-equipment-hire/",
+          "primary_keyword": "lifting equipment hire",
+          "relevance_score": 0.286,
+          "anchor_text_options": [
+            "lifting equipment hire",
+            "professional lifting equipment",
+            "lifting gear rental",
+            "hire lifting equipment",
+            "lifting equipment services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "When discussing material handling",
+            "In sections about construction equipment",
+            "When mentioning heavy lifting tasks",
+            "In safety-related equipment discussions"
+          ]
+        },
+        {
+          "priority": 5,
+          "target_url": "https://hirein.co.uk/platform-ladder-hire/",
+          "primary_keyword": "platform ladder hire",
+          "relevance_score": 0.286,
+          "anchor_text_options": [
+            "platform ladder hire",
+            "professional platform ladder hire",
+            "quality platform ladder hire",
+            "platform ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 6,
+          "target_url": "https://hirein.co.uk/youngman-ladder-hire/",
+          "primary_keyword": "youngman ladder hire",
+          "relevance_score": 0.286,
+          "anchor_text_options": [
+            "youngman ladder hire",
+            "professional youngman ladder hire",
+            "quality youngman ladder hire",
+            "youngman ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 7,
+          "target_url": "https://hirein.co.uk/scaffold-hire-prices/",
+          "primary_keyword": "scaffold hire prices",
+          "relevance_score": 0.286,
+          "anchor_text_options": [
+            "scaffold hire prices",
+            "professional scaffold hire prices",
+            "quality scaffold hire prices",
+            "scaffold hire prices services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        },
+        {
+          "priority": 8,
+          "target_url": "https://hirein.co.uk/step-ladder-hire/",
+          "primary_keyword": "step ladder hire",
+          "relevance_score": 0.286,
+          "anchor_text_options": [
+            "step ladder hire",
+            "professional step ladder hire",
+            "quality step ladder hire",
+            "step ladder hire services"
+          ],
+          "insertion_strategy": "low_priority_subtle",
+          "context_requirements": [
+            "In relevant equipment discussions"
+          ]
+        }
+      ]
+    }
+  ]
+}
