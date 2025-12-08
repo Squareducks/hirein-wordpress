@@ -1,0 +1,92 @@
+{
+  "scaffold-access-solutions": {
+    "pillar_title": "Scaffold & Access Solutions",
+    "pillar_url": "/scaffold-access-solutions/",
+    "related_pillars": [
+      {
+        "cluster_id": "safety-security-equipment",
+        "title": "Safety & Security Equipment",
+        "url": "/safety-security-equipment/"
+      },
+      {
+        "cluster_id": "material-handling-lifting",
+        "title": "Material Handling & Lifting",
+        "url": "/material-handling-lifting/"
+      }
+    ]
+  },
+  "site-groundworks-equipment": {
+    "pillar_title": "Site & Groundworks Equipment",
+    "pillar_url": "/site-groundworks-equipment/",
+    "related_pillars": [
+      {
+        "cluster_id": "safety-security-equipment",
+        "title": "Safety & Security Equipment",
+        "url": "/safety-security-equipment/"
+      },
+      {
+        "cluster_id": "material-handling-lifting",
+        "title": "Material Handling & Lifting",
+        "url": "/material-handling-lifting/"
+      }
+    ]
+  },
+  "safety-security-equipment": {
+    "pillar_title": "Safety & Security Equipment",
+    "pillar_url": "/safety-security-equipment/",
+    "related_pillars": [
+      {
+        "cluster_id": "scaffold-access-solutions",
+        "title": "Scaffold & Access Solutions",
+        "url": "/scaffold-access-solutions/"
+      },
+      {
+        "cluster_id": "site-groundworks-equipment",
+        "title": "Site & Groundworks Equipment",
+        "url": "/site-groundworks-equipment/"
+      },
+      {
+        "cluster_id": "material-handling-lifting",
+        "title": "Material Handling & Lifting",
+        "url": "/material-handling-lifting/"
+      }
+    ]
+  },
+  "material-handling-lifting": {
+    "pillar_title": "Material Handling & Lifting",
+    "pillar_url": "/material-handling-lifting/",
+    "related_pillars": [
+      {
+        "cluster_id": "scaffold-access-solutions",
+        "title": "Scaffold & Access Solutions",
+        "url": "/scaffold-access-solutions/"
+      },
+      {
+        "cluster_id": "site-groundworks-equipment",
+        "title": "Site & Groundworks Equipment",
+        "url": "/site-groundworks-equipment/"
+      }
+    ]
+  },
+  "diy-home-renovation": {
+    "pillar_title": "DIY & Home Renovation Projects",
+    "pillar_url": "/diy-home-renovation/",
+    "related_pillars": [
+      {
+        "cluster_id": "scaffold-access-solutions",
+        "title": "Scaffold & Access Solutions",
+        "url": "/scaffold-access-solutions/"
+      },
+      {
+        "cluster_id": "safety-security-equipment",
+        "title": "Safety & Security Equipment",
+        "url": "/safety-security-equipment/"
+      },
+      {
+        "cluster_id": "material-handling-lifting",
+        "title": "Material Handling & Lifting",
+        "url": "/material-handling-lifting/"
+      }
+    ]
+  }
+}

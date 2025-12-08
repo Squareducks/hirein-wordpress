@@ -1,0 +1,537 @@
+{
+  "total_content": 71,
+  "clusters": {
+    "scaffold-access-solutions": {
+      "pillar_title": "Scaffold & Access Solutions",
+      "pillar_url": "/scaffold-access-solutions/",
+      "content_count": 61,
+      "content_items": [
+        {
+          "url": "URL",
+          "title": "Title",
+          "type": "ContentType",
+          "primary_keyword": "PrimaryKeyword",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/mewp-hire/",
+          "title": "MEWP Hire",
+          "type": "Page",
+          "primary_keyword": "mewp hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/industrial-gas-heater-hire/",
+          "title": "Industrial Gas Heater Hire",
+          "type": "Page",
+          "primary_keyword": "industrial gas heater hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/cheap-ladder-hire/",
+          "title": "Cheap Ladder Hire",
+          "type": "Page",
+          "primary_keyword": "cheap ladder hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/boom-lift-hire/",
+          "title": "Boom Lift Hire",
+          "type": "Page",
+          "primary_keyword": "boom lift hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/hop-up-platform/",
+          "title": "Hop Up Platform",
+          "type": "Page",
+          "primary_keyword": "hop up platform",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/aluminium-step-hire/",
+          "title": "Aluminium Step Hire",
+          "type": "Page",
+          "primary_keyword": "aluminium step hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/aluminium-scaffold-tower-hire/",
+          "title": "Aluminium Scaffold Tower Hire",
+          "type": "Page",
+          "primary_keyword": "aluminium scaffold tower hire",
+          "relevance_score": 3.0
+        },
+        {
+          "url": "https://hirein.co.uk/blow-heater-hire/",
+          "title": "Blow Heater Hire",
+          "type": "Page",
+          "primary_keyword": "blow heater hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/high-level-powered-access/",
+          "title": "High Level Powered Access",
+          "type": "Page",
+          "primary_keyword": "high level powered access",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/3-way-ladder-hire/",
+          "title": "3 Way Ladder Hire",
+          "type": "Page",
+          "primary_keyword": "3 way ladder hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/access-platform-hire/",
+          "title": "Access Platform Hire",
+          "type": "Page",
+          "primary_keyword": "access platform hire",
+          "relevance_score": 3.0
+        },
+        {
+          "url": "https://hirein.co.uk/cherry-picker-hire/",
+          "title": "Cherry Picker Hire",
+          "type": "Page",
+          "primary_keyword": "cherry picker hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/diy-scaffold-tower/",
+          "title": "DIY Scaffold Tower",
+          "type": "Page",
+          "primary_keyword": "diy scaffold tower",
+          "relevance_score": 3.0
+        },
+        {
+          "url": "https://hirein.co.uk/fibreglass-step-ladder-hire/",
+          "title": "Fibreglass Step Ladder Hire",
+          "type": "Page",
+          "primary_keyword": "fibreglass step ladder hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/youngman-boards-hire/",
+          "title": "Youngman Boards Hire",
+          "type": "Page",
+          "primary_keyword": "youngman boards hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/tower-scaffold-protectors-hire/",
+          "title": "Tower Scaffold Protectors Hire",
+          "type": "Page",
+          "primary_keyword": "tower scaffold protectors hire",
+          "relevance_score": 3.0
+        },
+        {
+          "url": "https://hirein.co.uk/gas-bottle-storage-hire/",
+          "title": "Gas Bottle Storage Hire",
+          "type": "Page",
+          "primary_keyword": "gas bottle storage hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/heater-hire/",
+          "title": "Heater Hire",
+          "type": "Page",
+          "primary_keyword": "heater hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/high-clearance-frames/",
+          "title": "High Clearance Frames",
+          "type": "Page",
+          "primary_keyword": "high clearance frames",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/lift-shaft-scaffold-tower-hire/",
+          "title": "Lift Shaft Scaffold Tower Hire",
+          "type": "Page",
+          "primary_keyword": "lift shaft scaffold tower hire",
+          "relevance_score": 3.0
+        },
+        {
+          "url": "https://hirein.co.uk/scaffold-tower-scaff-tag-hire/",
+          "title": "Scaffold Tower Scaff Tag Hire",
+          "type": "Page",
+          "primary_keyword": "scaffold tower scaff tag hire",
+          "relevance_score": 3.0
+        },
+        {
+          "url": "https://hirein.co.uk/faq/",
+          "title": "FAQ",
+          "type": "Page",
+          "primary_keyword": "faq",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/platform-ladder-hire/",
+          "title": "Platform Ladder Hire",
+          "type": "Page",
+          "primary_keyword": "platform ladder hire",
+          "relevance_score": 3.0
+        },
+        {
+          "url": "https://hirein.co.uk/youngman-ladder-hire/",
+          "title": "Youngman Ladder Hire",
+          "type": "Page",
+          "primary_keyword": "youngman ladder hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/platform-lift-hire/",
+          "title": "Platform Lift Hire",
+          "type": "Page",
+          "primary_keyword": "platform lift hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/powered-access-hire/",
+          "title": "Powered Access Hire",
+          "type": "Page",
+          "primary_keyword": "powered access hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/scaffold-hire-prices/",
+          "title": "Scaffold Hire Prices",
+          "type": "Page",
+          "primary_keyword": "scaffold hire prices",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/scaffold-tower-accessories/",
+          "title": "Scaffold Tower Accessories",
+          "type": "Page",
+          "primary_keyword": "scaffold tower accessories",
+          "relevance_score": 4.5
+        },
+        {
+          "url": "https://hirein.co.uk/mobile-scaffold-tower-hire/",
+          "title": "Mobile Scaffold Tower Hire",
+          "type": "Page",
+          "primary_keyword": "mobile scaffold tower hire",
+          "relevance_score": 3.0
+        },
+        {
+          "url": "https://hirein.co.uk/featured-products/",
+          "title": "Featured Products",
+          "type": "Page",
+          "primary_keyword": "featured products",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/work-platform-hire/",
+          "title": "Work Platform Hire",
+          "type": "Page",
+          "primary_keyword": "work platform hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/step-ladder-hire/",
+          "title": "Step Ladder Hire",
+          "type": "Page",
+          "primary_keyword": "step ladder hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/steel-fence-hire/",
+          "title": "Steel Fence Hire",
+          "type": "Page",
+          "primary_keyword": "steel fence hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/scissor-lift-hire/",
+          "title": "Scissor Lift Hire",
+          "type": "Page",
+          "primary_keyword": "scissor lift hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/portable-heater-hire/",
+          "title": "Portable Heater Hire",
+          "type": "Page",
+          "primary_keyword": "portable heater hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/niftylift-hire/",
+          "title": "Niftylift Hire",
+          "type": "Page",
+          "primary_keyword": "niftylift hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/multi-purpose-ladder-hire/",
+          "title": "Multi Purpose Ladder Hire",
+          "type": "Page",
+          "primary_keyword": "multi purpose ladder hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/metal-fencing-hire/",
+          "title": "Metal Fencing Hire",
+          "type": "Page",
+          "primary_keyword": "metal fencing hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/lift-hire/",
+          "title": "Lift Hire",
+          "type": "Page",
+          "primary_keyword": "lift hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/ladder-accessory-hire/",
+          "title": "Ladder Accessory Hire",
+          "type": "Page",
+          "primary_keyword": "ladder accessory hire",
+          "relevance_score": 3.0
+        },
+        {
+          "url": "https://hirein.co.uk/industrial-heater-hire/",
+          "title": "Industrial Heater Hire",
+          "type": "Page",
+          "primary_keyword": "industrial heater hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/fencing-hire/",
+          "title": "Fencing Hire",
+          "type": "Page",
+          "primary_keyword": "fencing hire",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/extension-ladder-hire/",
+          "title": "Extension Ladder Hire",
+          "type": "Page",
+          "primary_keyword": "extension ladder hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/aluminium-ladder-hire/",
+          "title": "Aluminium Ladder Hire",
+          "type": "Page",
+          "primary_keyword": "aluminium ladder hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/returns-policy/",
+          "title": "Returns Policy",
+          "type": "Page",
+          "primary_keyword": "returns policy",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/privacy-policy/",
+          "title": "Privacy Policy",
+          "type": "Page",
+          "primary_keyword": "privacy policy",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/contact-us/",
+          "title": "Contact Us",
+          "type": "Page",
+          "primary_keyword": "contact us",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/shop/",
+          "title": "Shop",
+          "type": "Page",
+          "primary_keyword": "shop",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/terms-and-conditions/",
+          "title": "Terms and Conditions",
+          "type": "Page",
+          "primary_keyword": "terms and conditions",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/testimonials/",
+          "title": "Testimonials",
+          "type": "Page",
+          "primary_keyword": "testimonials",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/newsletter-signup/",
+          "title": "Newsletter Signup",
+          "type": "Page",
+          "primary_keyword": "newsletter signup",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/frequently-asked-questions/",
+          "title": "Frequently Asked Questions",
+          "type": "Page",
+          "primary_keyword": "frequently asked questions",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/products-by-attribute/",
+          "title": "Products by Attribute",
+          "type": "Page",
+          "primary_keyword": "products by attribute",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/specific-products/",
+          "title": "Specific Products",
+          "type": "Page",
+          "primary_keyword": "specific products",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/products-by-category/",
+          "title": "Products by Category",
+          "type": "Page",
+          "primary_keyword": "products by category",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/top-rated-products/",
+          "title": "Top Rated Products",
+          "type": "Page",
+          "primary_keyword": "top rated products",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/sale-products/",
+          "title": "Sale Products",
+          "type": "Page",
+          "primary_keyword": "sale products",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/recent-products/",
+          "title": "Recent Products",
+          "type": "Page",
+          "primary_keyword": "recent products",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/track-your-order/",
+          "title": "Track Your Order",
+          "type": "Page",
+          "primary_keyword": "track your order",
+          "relevance_score": 0.0
+        },
+        {
+          "url": "https://hirein.co.uk/product-comparison/",
+          "title": "Product Comparison",
+          "type": "Page",
+          "primary_keyword": "product comparison",
+          "relevance_score": 0.0
+        }
+      ]
+    },
+    "site-groundworks-equipment": {
+      "pillar_title": "Site & Groundworks Equipment",
+      "pillar_url": "/site-groundworks-equipment/",
+      "content_count": 3,
+      "content_items": [
+        {
+          "url": "https://hirein.co.uk/sitemap/",
+          "title": "Sitemap",
+          "type": "Page",
+          "primary_keyword": "sitemap",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/site-fencing-hire/",
+          "title": "Site Fencing Hire",
+          "type": "Page",
+          "primary_keyword": "site fencing hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/site-lighting-hire/",
+          "title": "Site Lighting Hire",
+          "type": "Page",
+          "primary_keyword": "site lighting hire",
+          "relevance_score": 1.5
+        }
+      ]
+    },
+    "safety-security-equipment": {
+      "pillar_title": "Safety & Security Equipment",
+      "pillar_url": "/safety-security-equipment/",
+      "content_count": 4,
+      "content_items": [
+        {
+          "url": "https://hirein.co.uk/barrier-fencing-hire/",
+          "title": "Barrier Fencing Hire",
+          "type": "Page",
+          "primary_keyword": "barrier fencing hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/crowd-control-barrier-hire/",
+          "title": "Crowd Control Barrier Hire",
+          "type": "Page",
+          "primary_keyword": "crowd control barrier hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/security-fencing-hire/",
+          "title": "Security Fencing Hire",
+          "type": "Page",
+          "primary_keyword": "security fencing hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/plastic-barrier-hire/",
+          "title": "Plastic Barrier Hire",
+          "type": "Page",
+          "primary_keyword": "plastic barrier hire",
+          "relevance_score": 1.5
+        }
+      ]
+    },
+    "material-handling-lifting": {
+      "pillar_title": "Material Handling & Lifting",
+      "pillar_url": "/material-handling-lifting/",
+      "content_count": 2,
+      "content_items": [
+        {
+          "url": "https://hirein.co.uk/lifting-equipment-hire/",
+          "title": "Lifting Equipment Hire",
+          "type": "Page",
+          "primary_keyword": "lifting equipment hire",
+          "relevance_score": 1.5
+        },
+        {
+          "url": "https://hirein.co.uk/lifting-gear-hire/",
+          "title": "Lifting Gear Hire",
+          "type": "Page",
+          "primary_keyword": "lifting gear hire",
+          "relevance_score": 1.5
+        }
+      ]
+    },
+    "diy-home-renovation": {
+      "pillar_title": "DIY & Home Renovation Projects",
+      "pillar_url": "/diy-home-renovation/",
+      "content_count": 1,
+      "content_items": [
+        {
+          "url": "https://hirein.co.uk/",
+          "title": "Home",
+          "type": "Page",
+          "primary_keyword": "equipment hire",
+          "relevance_score": 0.5
+        }
+      ]
+    }
+  }
+}

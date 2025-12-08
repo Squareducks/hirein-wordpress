@@ -451,3 +451,8 @@ require_once get_template_directory() . '/pillar-navigation-widget.php';
 
 // Include pillar breadcrumbs
 require_once get_template_directory() . '/pillar-breadcrumbs.php';
+
+// Week 3: Pillar Integration & Cluster Development
+require_once get_template_directory() . '/intra-cluster-linking-system.php';
+require_once get_template_directory() . '/cross-cluster-linking-system.php';
+require_once get_template_directory() . '/cluster-navigation-widget.php';
