@@ -23,6 +23,7 @@ class HireIn_Internal_Linking_System_Enhanced {
         $this->setup_link_density_rules();
         
         add_filter('the_content', array($this, 'insert_contextual_links'), 20);
+        add_filter('woocommerce_short_description', array($this, 'insert_contextual_links'), 20);
         add_action('wp_head', array($this, 'add_linking_styles'));
     }
     
