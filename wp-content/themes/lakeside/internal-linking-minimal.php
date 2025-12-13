@@ -92,13 +92,13 @@ class HireIn_Internal_Linking_Minimal {
             // 2. Mobile Scaffold Tower Hire (Product)
             'mobile-scaffold-tower-hire' => array(
                 array(
-                    'anchor_text' => 'scaffold solutions',
+                    'anchor_text' => 'working at height',
                     'target_url' => home_url('/scaffold-access-solutions-complete-equipment-hire-guide/'),
                     'max_insertions' => 1
                 ),
                 array(
-                    'anchor_text' => 'aluminium scaffold tower',
-                    'target_url' => home_url('/aluminium-scaffold-tower-hire/'),
+                    'anchor_text' => 'scaffold tower',
+                    'target_url' => home_url('/scaffold-tower-hire/'),
                     'max_insertions' => 1
                 )
             ),
@@ -106,13 +106,13 @@ class HireIn_Internal_Linking_Minimal {
             // 3. Extension Ladders Hire (Product)
             'extension-ladders-hire' => array(
                 array(
-                    'anchor_text' => 'scaffold solutions',
+                    'anchor_text' => 'working at height',
                     'target_url' => home_url('/scaffold-access-solutions-complete-equipment-hire-guide/'),
                     'max_insertions' => 1
                 ),
                 array(
-                    'anchor_text' => 'safety equipment',
-                    'target_url' => home_url('/safety-security-equipment-protect-your-site-team/'),
+                    'anchor_text' => 'DIY enthusiast',
+                    'target_url' => home_url('/diy-home-renovation-equipment-hire-for-every-project/'),
                     'max_insertions' => 1
                 )
             ),
