@@ -200,24 +200,35 @@ class HireIn_Internal_Linking_System_Enhanced {
      * Insert contextual links into content (all post types)
      */
     public function insert_contextual_links($content) {
+        // Debug logging
+        error_log('HireIn Internal Linking: Filter called');
+        error_log('HireIn Internal Linking: is_single=' . (is_single() ? 'true' : 'false') . ', is_page=' . (is_page() ? 'true' : 'false'));
+        
         // Only process single posts, pages, and products
         if (!is_single() && !is_page()) {
+            error_log('HireIn Internal Linking: Skipped - not single or page');
             return $content;
         }
         
         $post_type = get_post_type();
+        error_log('HireIn Internal Linking: post_type=' . $post_type);
         
         // Only process supported post types
         if (!in_array($post_type, array('post', 'page', 'product'))) {
+            error_log('HireIn Internal Linking: Skipped - unsupported post type');
             return $content;
         }
         
         $post_slug = get_post_field('post_name');
+        error_log('HireIn Internal Linking: post_slug=' . $post_slug);
         
         // Check if this content has linking opportunities
         if (!isset($this->linking_map[$post_slug])) {
+            error_log('HireIn Internal Linking: Skipped - no linking map for slug: ' . $post_slug);
             return $content;
         }
+        
+        error_log('HireIn Internal Linking: Found linking map for: ' . $post_slug . ' with ' . count($this->linking_map[$post_slug]) . ' opportunities');
         
         // Get link density rules for this post type
         $rules = $this->link_density_rules[$post_type];
