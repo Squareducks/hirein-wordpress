@@ -18,13 +18,19 @@ class HireIn_Internal_Linking_System_Enhanced {
     private $link_density_rules;
     
     public function __construct() {
+        error_log('HireIn Internal Linking: Constructor called - Class is being instantiated');
+        
         $this->load_linking_map();
+        error_log('HireIn Internal Linking: Linking map loaded with ' . count($this->linking_map) . ' entries');
+        
         $this->setup_anchor_text_variations();
         $this->setup_link_density_rules();
         
         add_filter('the_content', array($this, 'insert_contextual_links'), 20);
         add_filter('woocommerce_short_description', array($this, 'insert_contextual_links'), 20);
         add_action('wp_head', array($this, 'add_linking_styles'));
+        
+        error_log('HireIn Internal Linking: Filters registered successfully');
     }
     
     /**
