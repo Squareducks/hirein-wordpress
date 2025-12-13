@@ -456,3 +456,7 @@ require_once get_template_directory() . '/pillar-breadcrumbs.php';
 require_once get_template_directory() . '/intra-cluster-linking-system.php';
 require_once get_template_directory() . '/cross-cluster-linking-system.php';
 require_once get_template_directory() . '/cluster-navigation-widget.php';
+
+// Week 2: Internal Linking System - Minimal Working Version
+// Replaced broken system with clean, tested implementation
+require_once get_template_directory() . '/internal-linking-minimal.php';
