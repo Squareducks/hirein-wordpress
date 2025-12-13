@@ -80,11 +80,128 @@ class HireIn_Internal_Linking_Minimal {
         // This proves the system works before scaling up
         
         $linking_map = array(
-            // Test on the "Aluminium Scaffold Tower Hire" product page
+            // 1. Aluminium Scaffold Tower Hire (Product)
             'aluminium-scaffold-tower-hire' => array(
                 array(
                     'anchor_text' => 'scaffold tower',
                     'target_url' => home_url('/scaffold-access-solutions-complete-equipment-hire-guide/'),
+                    'max_insertions' => 1
+                )
+            ),
+            
+            // 2. Mobile Scaffold Tower Hire (Product)
+            'mobile-scaffold-tower-hire' => array(
+                array(
+                    'anchor_text' => 'scaffold solutions',
+                    'target_url' => home_url('/scaffold-access-solutions-complete-equipment-hire-guide/'),
+                    'max_insertions' => 1
+                ),
+                array(
+                    'anchor_text' => 'aluminium scaffold tower',
+                    'target_url' => home_url('/aluminium-scaffold-tower-hire/'),
+                    'max_insertions' => 1
+                )
+            ),
+            
+            // 3. Extension Ladders Hire (Product)
+            'extension-ladders-hire' => array(
+                array(
+                    'anchor_text' => 'scaffold solutions',
+                    'target_url' => home_url('/scaffold-access-solutions-complete-equipment-hire-guide/'),
+                    'max_insertions' => 1
+                ),
+                array(
+                    'anchor_text' => 'safety equipment',
+                    'target_url' => home_url('/safety-security-equipment-protect-your-site-team/'),
+                    'max_insertions' => 1
+                )
+            ),
+            
+            // 4. DIY Scaffold Tower (Product)
+            'diy-scaffold-tower' => array(
+                array(
+                    'anchor_text' => 'DIY projects',
+                    'target_url' => home_url('/diy-home-renovation-equipment-hire-for-every-project/'),
+                    'max_insertions' => 1
+                ),
+                array(
+                    'anchor_text' => 'scaffold tower hire',
+                    'target_url' => home_url('/scaffold-tower-hire/'),
+                    'max_insertions' => 1
+                )
+            ),
+            
+            // 5. Scaffold Tower Hire (Main Product)
+            'scaffold-tower-hire' => array(
+                array(
+                    'anchor_text' => 'scaffold solutions',
+                    'target_url' => home_url('/scaffold-access-solutions-complete-equipment-hire-guide/'),
+                    'max_insertions' => 1
+                ),
+                array(
+                    'anchor_text' => 'mobile scaffold',
+                    'target_url' => home_url('/mobile-scaffold-tower-hire/'),
+                    'max_insertions' => 1
+                )
+            ),
+            
+            // 6. Convector Heater Hire (Product)
+            'convector-heater-hire' => array(
+                array(
+                    'anchor_text' => 'site equipment',
+                    'target_url' => home_url('/site-groundworks-equipment-professional-hire-services/'),
+                    'max_insertions' => 1
+                ),
+                array(
+                    'anchor_text' => 'heater hire',
+                    'target_url' => home_url('/heater-hire/'),
+                    'max_insertions' => 1
+                )
+            ),
+            
+            // 7. Contact Us (Page)
+            'contact-us' => array(
+                array(
+                    'anchor_text' => 'scaffold tower hire',
+                    'target_url' => home_url('/scaffold-tower-hire/'),
+                    'max_insertions' => 1
+                ),
+                array(
+                    'anchor_text' => 'equipment hire',
+                    'target_url' => home_url('/'),
+                    'max_insertions' => 1
+                ),
+                array(
+                    'anchor_text' => 'safety equipment',
+                    'target_url' => home_url('/safety-security-equipment-protect-your-site-team/'),
+                    'max_insertions' => 1
+                )
+            ),
+            
+            // 8. GRP Scaffold Tower (Product)
+            'grp-scaffold-tower' => array(
+                array(
+                    'anchor_text' => 'scaffold solutions',
+                    'target_url' => home_url('/scaffold-access-solutions-complete-equipment-hire-guide/'),
+                    'max_insertions' => 1
+                ),
+                array(
+                    'anchor_text' => 'aluminium scaffold',
+                    'target_url' => home_url('/aluminium-scaffold-tower-hire/'),
+                    'max_insertions' => 1
+                )
+            ),
+            
+            // 9. Alloy Stair Scaffold Tower (Product)
+            'alloy-stair-scaffold-tower' => array(
+                array(
+                    'anchor_text' => 'scaffold solutions',
+                    'target_url' => home_url('/scaffold-access-solutions-complete-equipment-hire-guide/'),
+                    'max_insertions' => 1
+                ),
+                array(
+                    'anchor_text' => 'scaffold tower hire',
+                    'target_url' => home_url('/scaffold-tower-hire/'),
                     'max_insertions' => 1
                 )
             )
