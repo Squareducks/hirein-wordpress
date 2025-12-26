@@ -460,3 +460,67 @@ require_once get_template_directory() . '/cluster-navigation-widget.php';
 // Week 2: Internal Linking System - Minimal Working Version
 // Replaced broken system with clean, tested implementation
 require_once get_template_directory() . '/internal-linking-minimal.php';
+
+
+/**
+ * Hierarchical URL Rewrite Rules for HireIn Programmatic SEO
+ * Added: December 26, 2025
+ * 
+ * URL Structure:
+ * /county/ -> County Hub (e.g., /essex/)
+ * /county/town/ -> Town Hub (e.g., /essex/basildon/)
+ * /county/town/product/ -> Product Page (e.g., /essex/basildon/scaffold-tower-hire/)
+ */
+
+// Add rewrite rules for hierarchical structure
+function hirein_hierarchical_rewrite_rules() {
+    // Product Page: /county/town/product/
+    add_rewrite_rule(
+        '^([^/]+)/([^/]+)/([^/]+)/?$',
+        'index.php?post_type=product_page&name=$matches[3]&county=$matches[1]&town=$matches[2]',
+        'top'
+    );
+    
+    // Town Hub: /county/town/
+    add_rewrite_rule(
+        '^([^/]+)/([^/]+)/?$',
+        'index.php?post_type=town_hub&name=$matches[2]&county=$matches[1]',
+        'top'
+    );
+    
+    // County Hub: /county/
+    add_rewrite_rule(
+        '^([^/]+)/?$',
+        'index.php?post_type=county_hub&name=$matches[1]',
+        'top'
+    );
+}
+add_action('init', 'hirein_hierarchical_rewrite_rules');
+
+// Add query vars for county and town
+function hirein_query_vars($vars) {
+    $vars[] = 'county';
+    $vars[] = 'town';
+    return $vars;
+}
+add_filter('query_vars', 'hirein_query_vars');
+
+// Modify post permalinks to use hierarchical structure
+function hirein_hierarchical_permalink($permalink, $post) {
+    if ($post->post_type == 'product_page') {
+        $county = get_post_meta($post->ID, 'parent_county_slug', true);
+        $town = get_post_meta($post->ID, 'parent_town_slug', true);
+        if ($county && $town) {
+            return home_url("/$county/$town/" . $post->post_name . '/');
+        }
+    } elseif ($post->post_type == 'town_hub') {
+        $county = get_post_meta($post->ID, 'parent_county_slug', true);
+        if ($county) {
+            return home_url("/$county/" . $post->post_name . '/');
+        }
+    } elseif ($post->post_type == 'county_hub') {
+        return home_url('/' . $post->post_name . '/');
+    }
+    return $permalink;
+}
+add_filter('post_type_link', 'hirein_hierarchical_permalink', 10, 2);
