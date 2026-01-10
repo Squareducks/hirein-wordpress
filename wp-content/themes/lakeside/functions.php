@@ -524,3 +524,51 @@ function hirein_hierarchical_permalink($permalink, $post) {
     return $permalink;
 }
 add_filter('post_type_link', 'hirein_hierarchical_permalink', 10, 2);
+
+
+/**
+ * ============================================
+ * PHASE 0 SEO OPTIMIZATION - Security Headers
+ * Added: January 10, 2026
+ * Purpose: Improve security score and SEO signals
+ * ============================================
+ */
+
+// Add security headers via PHP
+function hirein_add_security_headers() {
+    // Only add headers if not already sent
+    if (!headers_sent()) {
+        // Prevent clickjacking attacks
+        header('X-Frame-Options: SAMEORIGIN');
+        
+        // Prevent MIME type sniffing
+        header('X-Content-Type-Options: nosniff');
+        
+        // Enable XSS protection
+        header('X-XSS-Protection: 1; mode=block');
+        
+        // Control referrer information
+        header('Referrer-Policy: strict-origin-when-cross-origin');
+        
+        // Permissions policy (restrict browser features)
+        header('Permissions-Policy: geolocation=(), microphone=(), camera=()');
+    }
+}
+add_action('send_headers', 'hirein_add_security_headers');
+
+/**
+ * ============================================
+ * PHASE 0 SEO OPTIMIZATION - Custom 404 Page
+ * Added: January 10, 2026
+ * Purpose: Improve user experience on 404 errors
+ * ============================================
+ */
+
+// Customize 404 page content
+function hirein_custom_404_content() {
+    if (is_404()) {
+        // Log 404 errors for monitoring (optional)
+        error_log('404 Error: ' . $_SERVER['REQUEST_URI'] . ' - Referrer: ' . (isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : 'Direct'));
+    }
+}
+add_action('template_redirect', 'hirein_custom_404_content');
