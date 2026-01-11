@@ -1,0 +1,246 @@
+
+/* Color Theme */
+.gry .wsmenu-list li:hover>a{background:#424242 !important; color:#fff !important;}
+.gry .wsmenu-list li a:hover {background:#424242 !important; color:#fff !important;}
+.gry .wsmenu-list li a.active{background:#424242 !important; color:#fff !important;}
+.gry .wsmenu-submenu li a:hover {background:#424242; border-radius:0px!important; color:#fff;}
+
+.orange .wsmenu-list li:hover>a{background:#ff670f !important; color:#fff !important;}
+.orange .wsmenu-list li a:hover {background:#ff670f !important; color:#fff !important;}
+.orange .wsmenu-list li a.active{background:#ff670f !important; color:#fff !important;}
+.orange .wsmenu-submenu li a:hover {background:#ff670f; border-radius:0px!important; color:#fff;}
+
+.blue .wsmenu-list li:hover>a{background:#4A89DC !important; color:#fff !important;}
+.blue .wsmenu-list li a:hover {background:#4A89DC !important; color:#fff !important;}
+.blue .wsmenu-list li a.active{background:#4A89DC !important; color:#fff !important;}
+.blue .wsmenu-submenu li a:hover {background:#4A89DC !important; border-radius:0px!important; color:#fff !important;}
+
+.green .wsmenu-list li:hover>a{background:#74a52e !important; color:#fff !important;}
+.green .wsmenu-list li a:hover {background:#74a52e !important; color:#fff !important;}
+.green .wsmenu-list li a.active{background:#74a52e !important; color:#fff !important;}
+.green .wsmenu-submenu li a:hover {background:#74a52e !important; border-radius:0px!important; color:#fff !important;}
+
+.red .wsmenu-list li:hover>a{background:#DA4B38 !important; color:#fff !important;}
+.red .wsmenu-list li a:hover {background:#DA4B38 !important; color:#fff !important;}
+.red .wsmenu-list li a.active{background:#DA4B38 !important; color:#fff !important;}
+.red .wsmenu-submenu li a:hover {background:#DA4B38 !important; border-radius:0px!important; color:#fff !important;}
+
+.yellow .wsmenu-list li:hover>a{background:#F6BB42 !important; color:#fff !important;}
+.yellow .wsmenu-list li a:hover {background:#F6BB42 !important; color:#fff !important;}
+.yellow .wsmenu-list li a.active{background:#F6BB42 !important; color:#fff !important;}
+.yellow .wsmenu-submenu li a:hover {background:#F6BB42 !important; border-radius:0px!important; color:#fff !important;}
+
+.purple .wsmenu-list li:hover>a{background:#967ADC !important; color:#fff !important;}
+.purple .wsmenu-list li a:hover {background:#967ADC !important; color:#fff !important;}
+.purple .wsmenu-list li a.active{background:#967ADC !important; color:#fff !important;}
+.purple .wsmenu-submenu li a:hover {background:#967ADC !important; border-radius:0px!important; color:#fff !important;}
+
+.pink .wsmenu-list li:hover>a{background:#ee1289 !important; color:#fff !important;}
+.pink .wsmenu-list li a:hover {background:#ee1289 !important; color:#fff !important;}
+.pink .wsmenu-list li a.active{background:#ee1289 !important; color:#fff !important;}
+.pink .wsmenu-submenu li a:hover {background:#ee1289 !important; border-radius:0px!important; color:#fff !important;}
+
+.chocolate .wsmenu-list li:hover>a{background:#934915 !important; color:#fff !important;}
+.chocolate .wsmenu-list li a:hover {background:#934915 !important; color:#fff !important;}
+.chocolate .wsmenu-list li a.active{background:#934915 !important; color:#fff !important;}
+.chocolate .wsmenu-submenu li a:hover {background:#934915 !important; border-radius:0px!important; color:#fff !important;}
+
+
+
+/* Gradient Theme */
+.gry-grdt .wsmenu-list li a{
+	background: #565656;
+	background: -moz-linear-gradient(top,  #565656 0%, #424242 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#565656), color-stop(100%,#424242));
+	background: -webkit-linear-gradient(top,  #565656 0%,#424242 100%);
+	background: -o-linear-gradient(top,  #565656 0%,#424242 100%);
+	background: -ms-linear-gradient(top,  #565656 0%,#424242 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#565656', endColorstr='#424242',GradientType=0 );
+	color:#fff;
+	border-right: 1px solid #3f3f3f;}
+.gry-grdt .wsmenu-list li:hover>a{background: #424242 !important; color:#fff !important;}	
+.gry-grdt .wsmenu-list li a:hover {background: #424242;color:#fff;}
+.gry-grdt .wsmenu-list li a.active{background: #424242 !important; color:#fff !important;} 
+.gry-grdt .wsmenu-submenu li a:hover{background: #424242; border-radius:0px!important; color:#fff;}
+.gry-grdt .wsmenu-list li a .arrow:after{ border-top-color:#fff !important;}
+.gry-grdt .wsmenu-submenu li a:hover{background-color: #424242 !important; color:#fff !important; }
+.gry-grdt .megamenu li a:hover{background-color: #424242 !important; color:#fff !important; }
+
+
+.blue-grdt .wsmenu-list li a{
+	background: #5999ee;
+	background: -moz-linear-gradient(top,  #5999ee 0%, #4a89dc 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5999ee), color-stop(100%,#4a89dc));
+	background: -webkit-linear-gradient(top,  #5999ee 0%,#4a89dc 100%);
+	background: -o-linear-gradient(top,  #5999ee 0%,#4a89dc 100%);
+	background: -ms-linear-gradient(top,  #5999ee 0%,#4a89dc 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5999ee', endColorstr='#4a89dc',GradientType=0 );
+	color:#fff;
+	border-right: 1px solid #4485da;}
+.blue-grdt .wsmenu-list li:hover>a{background: #4a89dc !important; color:#fff !important;}	
+.blue-grdt .wsmenu-list li a:hover{background: #4a89dc;	color:#fff;}
+.blue-grdt .wsmenu-list li a.active{background: #4a89dc !important; color:#fff !important;}
+.blue-grdt .wsmenu-submenu li a:hover{background: #4a89dc;	border-radius:0px!important; color:#fff;}
+.blue-grdt .wsmenu-list li a .arrow:after{ border-top-color:#fff !important;}
+.blue-grdt .wsmenu-submenu li a:hover{background-color: #418ae9 !important; color:#fff !important; }
+.blue-grdt .megamenu li a:hover{background-color: #418ae9 !important; color:#fff !important; }
+
+
+
+.green-grdt .wsmenu-list li a{
+	background: #86ba3d;
+	background: -moz-linear-gradient(top,  #86ba3d 0%, #74a52e 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#86ba3d), color-stop(100%,#74a52e));
+	background: -webkit-linear-gradient(top,  #86ba3d 0%,#74a52e 100%);
+	background: -o-linear-gradient(top,  #86ba3d 0%,#74a52e 100%);
+	background: -ms-linear-gradient(top,  #86ba3d 0%,#74a52e 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#86ba3d', endColorstr='#74a52e',GradientType=0 );
+	color:#fff;
+	border-right: 1px solid #6b9b26;}
+.green-grdt .wsmenu-list li:hover>a{background: #74a52e !important; color:#fff !important;}
+.green-grdt .wsmenu-list li a:hover{background: #74a52e; color:#fff;}
+.green-grdt .wsmenu-list li a.active{background: #74a52e !important; color:#fff !important;} 
+.green-grdt .wsmenu-submenu li a:hover{background: #74a52e;border-radius:0px!important; color:#fff;}
+.green-grdt .wsmenu-list li a .arrow:after{ border-top-color:#fff !important;}
+.green-grdt .wsmenu-submenu li a:hover{background-color: #74a52e !important; color:#fff !important; }
+.green-grdt .megamenu li a:hover{background-color: #74a52e !important; color:#fff !important; }
+
+
+
+.red-grdt .wsmenu-list li a{
+	background: #f05c48;
+	background: -moz-linear-gradient(top,  #f05c48 0%, #da4b38 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f05c48), color-stop(100%,#da4b38));
+	background: -webkit-linear-gradient(top,  #f05c48 0%,#da4b38 100%);
+	background: -o-linear-gradient(top,  #f05c48 0%,#da4b38 100%);
+	background: -ms-linear-gradient(top,  #f05c48 0%,#da4b38 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f05c48', endColorstr='#da4b38',GradientType=0 );
+	color:#fff;
+	border-right: 1px solid #d74a38;}
+.red-grdt .wsmenu-list li:hover>a{background: #da4b38 !important;color:#fff !important;}
+.red-grdt .wsmenu-list li a:hover{background: #da4b38;color:#fff;}
+.red-grdt .wsmenu-list li a.active{background: #da4b38 !important; color:#fff !important;}
+.red-grdt .wsmenu-submenu li a:hover {background: #da4b38; border-radius:0px!important; color:#fff;}
+.red-grdt .wsmenu-list li a .arrow:after{ border-top-color:#fff !important;}
+.red-grdt .wsmenu-submenu li a:hover{background-color: #da4b38 !important; color:#fff !important; }
+.red-grdt .megamenu li a:hover{background-color: #da4b38 !important; color:#fff !important; }
+
+.orange-grdt .wsmenu-list li a{
+	background: #fc7d33;
+	background: -moz-linear-gradient(top,  #fc7d33 0%, #ff670f 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fc7d33), color-stop(100%,#ff670f));
+	background: -webkit-linear-gradient(top,  #fc7d33 0%,#ff670f 100%);
+	background: -o-linear-gradient(top,  #fc7d33 0%,#ff670f 100%);
+	background: -ms-linear-gradient(top,  #fc7d33 0%,#ff670f 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fc7d33', endColorstr='#ff670f',GradientType=0 );
+	color:#fff;
+	border-right: 1px solid #f16717;}
+.orange-grdt .wsmenu-list li:hover>a{background: #ff670f !important; color:#fff !important;}
+.orange-grdt .wsmenu-list li a:hover {background: #ff670f; color:#fff;}
+.orange-grdt .wsmenu-list li a.active{background: #ff670f !important;	color:#fff !important;}
+.orange-grdt .wsmenu-submenu li a:hover{background: #ff670f;border-radius:0px!important; color:#fff;}
+.orange-grdt .wsmenu-list li a .arrow:after{ border-top-color:#fff !important;}
+.orange-grdt .wsmenu-submenu li a:hover{background-color: #ff670f !important; color:#fff !important; }
+.orange-grdt .megamenu li a:hover{background-color: #ff670f !important; color:#fff !important; }
+
+
+.yellow-grdt .wsmenu-list li a{
+	background: #ffcd67;
+	background: -moz-linear-gradient(top,  #ffcd67 0%, #f6bb42 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffcd67), color-stop(100%,#f6bb42));
+	background: -webkit-linear-gradient(top,  #ffcd67 0%,#ff670f 100%);
+	background: -o-linear-gradient(top,  #ffcd67 0%,#f6bb42 100%);
+	background: -ms-linear-gradient(top,  #ffcd67 0%,#f6bb42 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcd67', endColorstr='#f6bb42',GradientType=0 );
+	color:#fff;
+	border-right: 1px solid #ecb43f;}
+.yellow-grdt .wsmenu-list li:hover>a{background: #f6bb42 !important;color:#fff !important;}
+.yellow-grdt .wsmenu-list li a:hover{background: #f6bb42;color:#fff;}
+.yellow-grdt .wsmenu-list li a.active{background: #f6bb42 !important; color:#fff !important;}
+.yellow-grdt .wsmenu-submenu li a:hover{background: #f6bb42;border-radius:0px!important; color:#fff;}
+.yellow-grdt .wsmenu-list li a .arrow:after{ border-top-color:#fff !important;}
+.yellow-grdt .wsmenu-submenu li a:hover{background-color: #f6bb42 !important; color:#fff !important; }
+.yellow-grdt .megamenu li a:hover{background-color: #f6bb42 !important; color:#fff !important; }
+
+
+
+.purple-grdt .wsmenu-list li a{
+	background: #a98ded;
+	background: -moz-linear-gradient(top,  #a98ded 0%, #967adc 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a98ded), color-stop(100%,#967adc));
+	background: -webkit-linear-gradient(top,  #a98ded 0%,#967adc 100%);
+	background: -o-linear-gradient(top,  #a98ded 0%,#967adc 100%);
+	background: -ms-linear-gradient(top,  #a98ded 0%,#967adc 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a98ded', endColorstr='#967adc',GradientType=0 );
+	color:#fff;
+	border-right: 1px solid #9174d7;}
+.purple-grdt .wsmenu-list li:hover>a{background: #967adc !important; color:#fff !important;}
+.purple-grdt .wsmenu-list li a:hover {background: #967adc;color:#fff;}
+.purple-grdt .wsmenu-list li a.active{background: #967adc !important; color:#fff !important;}
+.purple-grdt .wsmenu-submenu li a:hover{background: #967adc;border-radius:0px!important; color:#fff;}
+.purple-grdt .wsmenu-list li a .arrow:after{ border-top-color:#fff !important;}
+.purple-grdt .wsmenu-submenu li a:hover{background-color: #967adc !important; color:#fff !important; }
+.purple-grdt .megamenu li a:hover{background-color: #967adc !important; color:#fff !important; }
+
+
+.pink-grdt .wsmenu-list li a{
+	background: #fb3ea4;
+	background: -moz-linear-gradient(top,  #fb3ea4 0%, #f21b8f 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fb3ea4), color-stop(100%,#f21b8f));
+	background: -webkit-linear-gradient(top,  #fb3ea4 0%,#f21b8f 100%);
+	background: -o-linear-gradient(top,  #fb3ea4 0%,#f21b8f 100%);
+	background: -ms-linear-gradient(top,  #fb3ea4 0%,#f21b8f 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fb3ea4', endColorstr='#f21b8f',GradientType=0 );
+	color:#fff;
+	border-right: 1px solid #dd1a84;}
+.pink-grdt .wsmenu-list li:hover>a{background: #ee1289 !important; color:#fff !important;}
+.pink-grdt .wsmenu-list li a:hover{background: #ee1289;	color:#fff;}
+.pink-grdt .wsmenu-list li a.active{background: #ee1289 !important;	color:#fff !important;}
+.pink-grdt .wsmenu-submenu li a:hover {background: #ee1289;	border-radius:0px!important; color:#fff;}
+.pink-grdt .wsmenu-list li a .arrow:after{ border-top-color:#fff !important;}
+.pink-grdt .wsmenu-submenu li a:hover{background-color: #ee1289 !important; color:#fff !important; }
+.pink-grdt .megamenu li a:hover{background-color: #ee1289 !important; color:#fff !important; }
+
+
+	 
+@media only screen and (max-width: 780px) {
+
+/* Color Theme */
+.gry .wsmenu-submenu li:hover>a{ background-color:#424242 !important; color:#fff;}
+.gry .wsmenu .wsmenu-list li a.active{color: #fff; background-color: #424242;}
+.gry .wsmenu .wsmenu-list li a:hover{ color: #fff; background-color: #424242;}
+
+.orange .wsmenu-submenu li:hover>a{ background-color:#ff670f !important; color:#fff;}
+.orange .wsmenu .wsmenu-list li a.active{color: #fff; background-color: #ff670f;}
+.orange .wsmenu .wsmenu-list li a:hover{ color: #fff; background-color: #ff670f;}
+
+.blue .wsmenu-submenu li:hover>a{ background-color:#4A89DC !important; color:#fff;}
+.blue .wsmenu .wsmenu-list li a.active{color: #fff; background-color: #4A89DC;}
+.blue .wsmenu .wsmenu-list li a:hover{ color: #fff; background-color: #4A89DC;}	
+
+.green .wsmenu-submenu li:hover>a{ background-color:#74a52e !important; color:#fff;}
+.green .wsmenu .wsmenu-list li a.active{color: #fff; background-color: #74a52e;}
+.green .wsmenu .wsmenu-list li a:hover{ color: #fff; background-color: #74a52e;}	
+
+.red .wsmenu-submenu li:hover>a{ background-color:#DA4B38 !important; color:#fff;}
+.red .wsmenu .wsmenu-list li a.active{color: #fff; background-color: #DA4B38;}
+.red .wsmenu .wsmenu-list li a:hover{ color: #fff; background-color: #DA4B38;}	
+
+.yellow .wsmenu-submenu li:hover>a{ background-color:#F6BB42 !important; color:#fff;}
+.yellow .wsmenu .wsmenu-list li a.active{color: #fff; background-color: #F6BB42;}
+.yellow .wsmenu .wsmenu-list li a:hover{ color: #fff; background-color: #F6BB42;}	
+
+.purple .wsmenu-submenu li:hover>a{ background-color:#967ADC !important; color:#fff;}
+.purple .wsmenu .wsmenu-list li a.active{color: #fff; background-color: #967ADC;}
+.purple .wsmenu .wsmenu-list li a:hover{ color: #fff; background-color: #967ADC;}	
+	
+.pink .wsmenu-submenu li:hover>a{ background-color:#ee1289 !important; color:#fff;}
+.pink .wsmenu .wsmenu-list li a.active{color: #fff; background-color: #ee1289;}
+.pink .wsmenu .wsmenu-list li a:hover{ color: #fff; background-color: #ee1289;}	
+	
+.chocolate .wsmenu-submenu li:hover>a{ background-color:#934915 !important; color:#fff;}
+.chocolate .wsmenu .wsmenu-list li a.active{color: #fff; background-color: #934915;}
+.chocolate .wsmenu .wsmenu-list li a:hover{ color: #fff; background-color: #934915;}	
+	
+
+}
